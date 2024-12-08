@@ -21,7 +21,7 @@
 </div>
 
 - 🎯 **Pasión:** Desarrollo de software, diseño creativo y proyectos innovadores.  
-- 🌱 **Actualmente aprendiendo:** **Spring Boot** y metodologías DevOps.  
+- 🌱 **Actualmente aprendiendo:** **Spring Boot**. metodologías DevOps y **Laravel**.  
 - 💬 **¿Por qué colaborar conmigo?** Soy un solucionador de problemas con un enfoque creativo.  
 - 🚀 **Inspiración:** Transformar ideas en soluciones tangibles y útiles.  
 

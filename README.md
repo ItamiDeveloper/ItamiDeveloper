@@ -46,7 +46,7 @@ Desarrollador de Software con sólida experiencia en la construcción de solucio
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ItamiDeveloper&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="97%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ItamiDeveloper&theme=tokyonight&hide_border=true" width="97%" />
 </div>
 
 ---

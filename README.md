@@ -41,12 +41,12 @@ Desarrollador de Software con sólida experiencia en la construcción de solucio
 ### 📊 Actividad en GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats-six.vercel.app/api?username=ItamiDeveloper&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" width="48%" />
-  <img src="https://github-readme-stats-six.vercel.app/api/top-langs/?username=ItamiDeveloper&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ItamiDeveloper&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ItamiDeveloper&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" width="48%" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ItamiDeveloper&theme=tokyonight&hide_border=true" width="97%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ItamiDeveloper&theme=tokyonight&hide_border=true&v=2" width="97%" />
 </div>
 
 ---
